@@ -8,4 +8,6 @@ Thanks to those classes the idea of creating Placetag app was born. It helped us
 Now Placetag is available at http://placetag.pl and in Play Store. 
 
 ## Screenshots
+For see more details go to PDFs at main page of repository.  
+  
 <img src="Placetag mockup.JPG" width="400"> <img src="User timeline.jpg" width="400">
